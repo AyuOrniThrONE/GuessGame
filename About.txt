@@ -1,0 +1,5 @@
+Created on 17 sep 2021 :
+The repo is about the guessing number. The computer will select a random number from his side. You have to guess the correct number selected by computer with less number of attempts.
+For that the code will provdie hint on the basis of number you entered like Higher number please or lower number please.
+And at the end the number of attempts is displayed.
+See yaaa
