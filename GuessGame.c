@@ -8,7 +8,7 @@ int main()
     int guess, nguesses = 1;
     srand(time(0));
     num = rand() % 100+ 1;
-    printf("The number is %d \n", num);
+    //printf("The number is %d \n", num); Prints the random number filled by System.
     do
     {
         printf("Enter the number between 1 to 100\n");
